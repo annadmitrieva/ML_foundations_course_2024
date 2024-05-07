@@ -18,3 +18,7 @@
 [22 апреля - Снижение размерности](https://github.com/annadmitrieva/ML_foundations_course_2024/tree/main/22%20%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F)
 
 [24 апреля - Ансамбли и градиентный бустинг](https://github.com/annadmitrieva/ML_foundations_course_2024/tree/main/24%20%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F)
+
+[Лабораторная работа №2](https://disk.yandex.ru/d/0nXEEvO3EO_KZw)
+
+[6 мая - Введение в глубокое обучение](https://github.com/annadmitrieva/ML_foundations_course_2024/tree/main/6%20%D0%BC%D0%B0%D1%8F)
