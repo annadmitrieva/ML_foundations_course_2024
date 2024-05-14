@@ -24,3 +24,5 @@
 [6 мая - Введение в глубокое обучение](https://github.com/annadmitrieva/ML_foundations_course_2024/tree/main/6%20%D0%BC%D0%B0%D1%8F)
 
 [8 мая - Типы нейросетей](https://github.com/annadmitrieva/ML_foundations_course_2024/tree/main/8%20%D0%BC%D0%B0%D1%8F)
+
+[13 мая - Дистрибутивная семантика](https://github.com/annadmitrieva/ML_foundations_course_2024/tree/main/13%20%D0%BC%D0%B0%D1%8F)
